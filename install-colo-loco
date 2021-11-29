@@ -1,5 +1,6 @@
 #!/usr/bin/env sh
 
+echo
 echo "Add react-native-colo-loco to your project first:"
 echo
 echo "  npm install --save-dev react-native-colo-loco"
