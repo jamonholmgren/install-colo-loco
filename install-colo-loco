@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 echo "Add react-native-colo-loco to your project first:"
 echo
