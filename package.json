@@ -1,6 +1,6 @@
 {
   "name": "install-colo-loco",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "bin": {
     "install-colo-loco": "install-colo-loco"
   },
