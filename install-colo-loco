@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
 echo "Add react-native-colo-loco to your project first:"
 echo
