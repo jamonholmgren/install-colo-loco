@@ -1,0 +1,12 @@
+{
+  "name": "install-colo-loco",
+  "version": "0.0.1",
+  "bin": {
+    "install-colo-loco": "install-colo-loco"
+  },
+  "description": "Install colo loco",
+  "main": "index.js",
+  "author": "Jamon Holmgren",
+  "license": "MIT",
+  "private": false
+}

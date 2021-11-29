@@ -1,0 +1,8 @@
+#!/usr/bin bash
+
+echo "Add react-native-colo-loco to your project first:"
+echo
+echo "  npm install --save-dev react-native-colo-loco"
+echo
+echo "  yarn add -D react-native-colo-loco"
+echo
